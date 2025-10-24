@@ -3,7 +3,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://www.sekolahalirsyad.org//</loc>
+<loc>https://www.sekolahalirsyad.org/</loc>
 <lastmod>2025-08-19T17:19:47+00:00</lastmod>
 <priority>1.00</priority>
 <changefreq>daily</changefreq>
@@ -78,5 +78,6 @@
 <priority>0.70</priority>
 <changefreq>weekly</changefreq>
 </url>
+
 
 </urlset>
